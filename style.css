@@ -17,6 +17,16 @@ body {
     color: black;
 }
 
+
+.nyc {
+    width: 55vw;
+    left: 423px;
+    top: 238px;
+    padding-left: 21vw;
+    border-radius: 0px;
+
+}
+
 .nav-item {
     display: inline;
     font-size: 26.6px;
@@ -30,3 +40,6 @@ body {
     align-items: center;
     padding: 50px 100px;
 }
+
+
+ 
