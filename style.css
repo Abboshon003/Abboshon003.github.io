@@ -41,5 +41,13 @@ body {
     padding: 50px 100px;
 }
 
+.names {
+    overflow: visible;
 
+
+}
+
+.grid-container {
+    display: grid;
+}
  
